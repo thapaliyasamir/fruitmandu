@@ -1,0 +1,11 @@
+
+footer{
+    background: black
+}
+footer p{
+    margin: 20px 20px auto;
+    color: white;
+}
+footer img{
+    margin: 20px auto;
+}
